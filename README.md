@@ -5,16 +5,16 @@
 
 * Features
 
-  *Predicts house prices based on various features like:
+   -Predicts house prices based on various features like:
 
-    * Square footage
-    * Number of bedrooms/bathrooms
-    * Location
-    * Year built
-    * Property condition
-  *Uses Random Forest Regressor model
-  *Data preprocessing and feature engineering
-  *Model evaluation with R2 score and MSE
+    - Square footage
+    - Number of bedrooms/bathrooms
+    - Location
+    - Year built
+    - Property condition
+  - Uses Random Forest Regressor model
+  - Data preprocessing and feature engineering
+  - Model evaluation with R2 score and MSE
 
 *Integration of MLOps using ZenML and MLflow
 
@@ -22,17 +22,17 @@
 
 *Technologies Used
 
-  *Python 3.x
-  *pandas
-  *scikit-learn
-  *numpy
-  *matplotlib
-  *seaborn
+  - Python 3.x
+  - pandas
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - seaborn
 
 *Results
 
-  *Model achieves 85% accuracy on test data
-  *Mean Squared Error: 2.3
-  *R2 Score: 0.85
+  - Model achieves 85% accuracy on test data
+  - Mean Squared Error: 2.3
+  - R2 Score: 0.85
 
   
