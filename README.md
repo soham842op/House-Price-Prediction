@@ -5,7 +5,7 @@
 
 * Features
 
-   -Predicts house prices based on various features like:
+   - Predicts house prices based on various features like:
 
     - Square footage
     - Number of bedrooms/bathrooms
@@ -16,11 +16,11 @@
   - Data preprocessing and feature engineering
   - Model evaluation with R2 score and MSE
 
-*Integration of MLOps using ZenML and MLflow
+* Integration of MLOps using ZenML and MLflow
 
-*Implement CI/CD pipelines to automate testing , deployment of the modul in production 
+* Implement CI/CD pipelines to automate testing , deployment of the modul in production 
 
-*Technologies Used
+* Technologies Used
 
   - Python 3.x
   - pandas
@@ -29,7 +29,7 @@
   - matplotlib
   - seaborn
 
-*Results
+* Results
 
   - Model achieves 85% accuracy on test data
   - Mean Squared Error: 2.3
